@@ -221,12 +221,12 @@ export default function Contact() {
               <div className="bg-peach-600 rounded-lg p-6 shadow-sm">
                 <h3 className="text-lg font-semibold text-white mb-2">Do you offer free consultations?</h3>
                 <p className="text-peach-100">
-                  Yes, I offer a complimentary 15-minute phone consultation to discuss your goals and determine if we're a good fit for working together. You can schedule this through the booking page.
+                  Yes, I offer a complimentary 15-minute phone consultation to discuss your goals and determine if we&apos;re a good fit for working together. You can schedule this through the booking page.
                 </p>
               </div>
               
               <div className="bg-gold-600 rounded-lg p-6 shadow-sm">
-                <h3 className="text-lg font-semibold text-white mb-2">What if I'm not sure coaching is right for me?</h3>
+                <h3 className="text-lg font-semibold text-white mb-2">What if I&apos;m not sure coaching is right for me?</h3>
                 <p className="text-gold-100">
                   That&apos;s completely normal! I encourage you to reach out with your questions or schedule a free consultation. We can discuss your specific situation and determine if coaching would be beneficial for you.
                 </p>
