@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sage-50: #f0f5f1;
+  --color-sage-100: #daeadd;
+  --color-sage-200: #b5d5c0;
+  --color-sage-300: #8fbfa3;
+  --color-sage-400: #6aa986;
+  --color-sage-500: #4d8e6e;
+  --color-sage-600: #3d7259;
+  --color-sage-700: #325c48;
+  --color-sage-800: #284738;
+  --color-sage-900: #1f352a;
+  
+  --color-peach-50: #fef6f0;
+  --color-peach-100: #fdeadc;
+  --color-peach-200: #fbd5b9;
+  --color-peach-300: #f8c096;
+  --color-peach-400: #f5ab73;
+  --color-peach-500: #f29650;
+  --color-peach-600: #c27840;
+  --color-peach-700: #915a30;
+  --color-peach-800: #613c20;
+  --color-peach-900: #301e10;
+  
+  --color-gold-50: #fefbf0;
+  --color-gold-100: #fdf7dc;
+  --color-gold-200: #fbefb9;
+  --color-gold-300: #f8e796;
+  --color-gold-400: #f5df73;
+  --color-gold-500: #f2d750;
+  --color-gold-600: #c2ac40;
+  --color-gold-700: #918130;
+  --color-gold-800: #615620;
+  --color-gold-900: #302b10;
+  
+  --color-charcoal-50: #f2f2f2;
+  --color-charcoal-100: #e6e6e6;
+  --color-charcoal-200: #cccccc;
+  --color-charcoal-300: #b3b3b3;
+  --color-charcoal-400: #999999;
+  --color-charcoal-500: #808080;
+  --color-charcoal-600: #666666;
+  --color-charcoal-700: #4d4d4d;
+  --color-charcoal-800: #333333;
+  --color-charcoal-900: #1a1a1a;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #1f352a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1f352a;
+    --foreground: #f0f5f1;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Calendly widget styling */
+.calendly-inline-widget {
+  position: relative;
+  overflow: hidden;
+}
+
+.calendly-inline-widget iframe {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: inherit !important;
+  border: none !important;
+}
