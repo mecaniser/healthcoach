@@ -1,6 +1,5 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Contact | A Work of Art Health Coach",
