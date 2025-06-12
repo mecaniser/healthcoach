@@ -137,7 +137,7 @@ export default function About() {
                     <span className="text-sage-600 font-semibold">2</span>
                   </div>
                   <p className="text-charcoal-600">
-                    <span className="font-semibold">Goal Setting:</span> Together, we'll establish clear, achievable goals that align with your values and aspirations.
+                    <span className="font-semibold">Goal Setting:</span> Together, we&apos;ll establish clear, achievable goals that align with your values and aspirations.
                   </p>
                 </li>
                 <li className="flex items-start">
@@ -145,7 +145,7 @@ export default function About() {
                     <span className="text-sage-600 font-semibold">3</span>
                   </div>
                   <p className="text-charcoal-600">
-                    <span className="font-semibold">Strategy Development:</span> I'll help you create practical strategies and action plans tailored to your specific needs.
+                    <span className="font-semibold">Strategy Development:</span> I&apos;ll help you create practical strategies and action plans tailored to your specific needs.
                   </p>
                 </li>
                 <li className="flex items-start">
@@ -161,7 +161,7 @@ export default function About() {
                     <span className="text-sage-600 font-semibold">5</span>
                   </div>
                   <p className="text-charcoal-600">
-                    <span className="font-semibold">Progress Evaluation:</span> We'll regularly assess your progress and refine our approach as needed to ensure optimal results.
+                    <span className="font-semibold">Progress Evaluation:</span> We&apos;ll regularly assess your progress and refine our approach as needed to ensure optimal results.
                   </p>
                 </li>
               </ul>

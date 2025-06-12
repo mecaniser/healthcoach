@@ -92,7 +92,7 @@ export default function Book() {
                 <div>
                   <h4 className="text-lg font-semibold text-charcoal-800 mb-2">How do sessions take place?</h4>
                   <p className="text-charcoal-600">
-                    Sessions are conducted via Zoom video call. You'll receive a link in your confirmation email after booking.
+                    Sessions are conducted via Zoom video call. You&apos;ll receive a link in your confirmation email after booking.
                   </p>
                 </div>
                 
@@ -127,7 +127,7 @@ export default function Book() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">Have Questions?</h2>
           <p className="text-lg text-sage-100 mb-8 max-w-2xl mx-auto">
-            If you have any questions about coaching sessions or need help choosing the right option for you, please don't hesitate to reach out.
+            If you have any questions about coaching sessions or need help choosing the right option for you, please don&apos;t hesitate to reach out.
           </p>
           <Link 
             href="/contact" 
