@@ -28,7 +28,7 @@ export default function Book() {
             <div className="bg-white rounded-lg shadow-md p-6 mb-10">
               <h2 className="text-2xl font-bold text-charcoal-900 mb-6">Schedule Your Session</h2>
               <p className="text-charcoal-600 mb-8">
-                Use the calendar below to find a time that works for you. Once you select a time, you'll receive a confirmation email with all the details you need for our session.
+                Use the calendar below to find a time that works for you. Once you select a time, you&apos;ll receive a confirmation email with all the details you need for our session.
               </p>
               
               {/* Calendly inline widget */}
@@ -52,7 +52,7 @@ export default function Book() {
                 <div className="bg-sage-700 rounded-lg p-6">
                   <h4 className="text-lg font-semibold text-white mb-3">Free Consultation</h4>
                   <p className="text-sage-100 mb-4">
-                    Our first conversation focuses on understanding your current situation, goals, and challenges. We'll discuss your wellness journey and determine if we're a good fit to work together.
+                    Our first conversation focuses on understanding your current situation, goals, and challenges. We&apos;ll discuss your wellness journey and determine if we&apos;re a good fit to work together.
                   </p>
                   <p className="font-semibold text-white">Free</p>
                 </div>
@@ -106,7 +106,7 @@ export default function Book() {
                 <div>
                   <h4 className="text-lg font-semibold text-charcoal-800 mb-2">How do I prepare for my first session?</h4>
                   <p className="text-charcoal-600">
-                    Find a quiet, private space where you won't be interrupted. Consider reflecting on your goals and what you hope to achieve through coaching. You'll receive a brief questionnaire to complete before our first session.
+                    Find a quiet, private space where you won&apos;t be interrupted. Consider reflecting on your goals and what you hope to achieve through coaching. You&apos;ll receive a brief questionnaire to complete before our first session.
                   </p>
                 </div>
                 

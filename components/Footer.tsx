@@ -12,8 +12,8 @@ const Footer = () => {
           {/* Column 1 - About */}
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">A Work of Art Health Coach</h3>
-            <p className="text-sage-100 mb-4">
-              You might feel like a failure but actually, you're a work of art. It's not a diet plan–it's an inner journey. Let's walk it together.
+            <p className="text-sage-100 mb-6 max-w-md">
+              You might feel like a failure but actually, you&apos;re a work of art. It&apos;s not a diet plan–it&apos;s an inner journey. Let&apos;s walk it together.
             </p>
             <div className="flex space-x-4">
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-sage-300 hover:text-sage-100 transition-colors">

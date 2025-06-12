@@ -18,7 +18,7 @@ export default function Home() {
                 A Work of Art Health Coach
               </h1>
               <p className="text-xl text-sage-100 mb-8">
-                You might feel like a failure but actually, you're a work of art. It's not a diet plan–it's an inner journey. Let's walk it together.
+                You might feel like a failure but actually, you&apos;re a work of art. It&apos;s not a diet plan–it&apos;s an inner journey. Let&apos;s walk it together.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link 

@@ -4,7 +4,7 @@ import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Contact | A Work of Art Health Coach",
-  description: "Get in touch with Karen Myers, holistic life and health coach. I'm here to answer your questions and help you start your wellness journey.",
+  description: "Get in touch with Karen Myers for holistic health coaching. Let&apos;s start your wellness journey together.",
 };
 
 export default function Contact() {
@@ -16,7 +16,7 @@ export default function Contact() {
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Contact Me</h1>
             <p className="text-xl text-sage-100 max-w-3xl mx-auto">
-              Have questions or ready to start your wellness journey? I'm here to help you take the next step.
+              I&apos;m here to help you on your wellness journey. Reach out with any questions or to schedule a consultation.
             </p>
           </div>
         </div>
@@ -30,7 +30,7 @@ export default function Contact() {
             <div>
               <h2 className="text-3xl font-bold text-charcoal-900 mb-6">Get in Touch</h2>
               <p className="text-lg text-charcoal-600 mb-8">
-                I'm here to answer any questions you might have about wellness coaching and how it can benefit you. Feel free to reach out using the contact form or through any of the methods below.
+                I&apos;m here to support you on your wellness journey. Whether you have questions about my coaching approach, want to discuss your specific needs, or are ready to schedule a consultation, I&apos;d love to hear from you.
               </p>
               
               <div className="space-y-6">
@@ -215,7 +215,7 @@ export default function Contact() {
               <div className="bg-sage-600 rounded-lg p-6 shadow-sm">
                 <h3 className="text-lg font-semibold text-white mb-2">How quickly can I expect a response?</h3>
                 <p className="text-sage-100">
-                  I typically respond to all inquiries within 24-48 hours during business days. If you need immediate assistance, please call the office directly.
+                  I&apos;ll get back to you within 24 hours.
                 </p>
               </div>
               
@@ -229,7 +229,7 @@ export default function Contact() {
               <div className="bg-gold-600 rounded-lg p-6 shadow-sm">
                 <h3 className="text-lg font-semibold text-white mb-2">What if I'm not sure coaching is right for me?</h3>
                 <p className="text-gold-100">
-                  That's completely normal! I encourage you to reach out with your questions or schedule a free consultation. We can discuss your specific situation and determine if coaching would be beneficial for you.
+                  That&apos;s completely normal! I encourage you to reach out with your questions or schedule a free consultation. We can discuss your specific situation and determine if coaching would be beneficial for you.
                 </p>
               </div>
             </div>
@@ -242,7 +242,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to Transform Your Life?</h2>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Take the first step toward a more balanced, fulfilling life with personalized wellness coaching.
+            Let&apos;s connect and explore how I can support your wellness goals.
           </p>
           <Link 
             href="/book" 

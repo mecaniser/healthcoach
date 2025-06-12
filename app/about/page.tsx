@@ -15,7 +15,7 @@ export default function About() {
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">About Me</h1>
             <p className="text-xl text-sage-100 max-w-3xl mx-auto">
-              You might feel like a failure but actually, you're a work of art. It's not a diet plan–it's an inner journey. Let's walk it together.
+              You might feel like a failure but actually, you&apos;re a work of art. It&apos;s not a diet plan–it&apos;s an inner journey. Let&apos;s walk it together.
             </p>
           </div>
         </div>
@@ -39,13 +39,13 @@ export default function About() {
             <div className="md:w-2/3">
               <h2 className="text-3xl font-bold text-peach-600 mb-6">Karen Myers</h2>
               <p className="text-lg text-charcoal-900 mb-6">
-                I'm a holistic life and health coach–and, a veteran medical social worker with 25 years of field experience who holds dual licenses as an LCSW in both North Carolina and Utah. I am also a certified ACHP-SW (end of life specialist).
+                I&apos;m a holistic life and health coach–and, a veteran medical social worker with 25 years of field experience who holds dual licenses as an LCSW in both North Carolina and Utah. I am also a certified ACHP-SW (end of life specialist).
               </p>
               <p className="text-lg text-charcoal-900 mb-6">
                 My work as a holistic life and health coach was born from my own long and winding road learning to manage my weight, restore balance and regain peace in my relationship with food and my body. And along the way, I learned how to achieve vibrant health with a health span matching my lifespan.
               </p>
               <p className="text-lg text-charcoal-900 mb-6">
-                I'm also a mindfulness-based psychotherapist, lifestyle medicine practitioner, nourishing & nurturing slow food gourmet maestra, mindful distance swimmer, lifelong learner, and wannabe flamenco dancer.
+                I&apos;m also a mindfulness-based psychotherapist, lifestyle medicine practitioner, nourishing & nurturing slow food gourmet maestra, mindful distance swimmer, lifelong learner, and wannabe flamenco dancer.
               </p>
               <p className="text-lg text-charcoal-900 mb-8">
                 Recently, I realized there was a need for health coaching and a niche needing to be filled by someone with my specialized professional background as a healthcare professional and medical social worker. My purpose is simple. To help women struggling with these same issues.
