@@ -36,12 +36,12 @@ export default function Home() {
               </div>
             </div>
             <div className="w-full md:w-1/2 relative mb-8 md:mb-0 order-1 md:order-2 block">
-              <div className="w-full h-[300px] sm:h-[400px] md:h-[500px] bg-sage-200 rounded-lg overflow-hidden shadow-xl relative">
+              <div className="w-full aspect-[3/4] sm:aspect-[4/5] md:aspect-[3/4] bg-sage-200 rounded-lg overflow-hidden shadow-xl relative">
                 <Image
                   src="/images/woa_face.png"
                   alt="Wellness coaching session"
                   fill
-                  className="object-contain md:object-cover"
+                  className="object-cover"
                   priority
                   sizes="(max-width: 768px) 100vw, 50vw"
                 />
