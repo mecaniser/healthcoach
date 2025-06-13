@@ -26,13 +26,13 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/3">
-              <div className="relative w-full h-[300px] rounded-lg overflow-hidden shadow-lg">
+              <div className="relative w-full aspect-[3/4] rounded-lg overflow-hidden shadow-lg">
                 <Image
                   src="/images/woa.png"
                   alt="Wellness Coach Profile"
-                  width={400}
-                  height={400}
+                  fill
                   className="object-cover"
+                  sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
             </div>
